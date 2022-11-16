@@ -1,0 +1,35 @@
+.trending {
+    margin-top: 100px;
+}
+.trending h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.image-1, 
+.images {
+    border-radius: 5px;
+    border: 1px solid #0084ff;
+    transition: all 0.2s;
+    filter: brightness(80%);
+}
+.image-1:hover, 
+.images:hover {
+    cursor: pointer;
+    filter: brightness(95%);
+}
+.image-1 {
+    width: 140%;
+    margin-right: 15px;
+}
+.images {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.container-T {
+    display: flex;
+}
+.sub-container-T {
+    display: flex;
+    flex-direction: column;
+}

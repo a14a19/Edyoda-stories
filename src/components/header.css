@@ -1,0 +1,60 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 5%;
+  box-shadow: 0px 0px 2px 0.5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0%;
+  right: 0%;
+  left: 0%;
+  background: whitesmoke;
+  z-index: 100;
+}
+.header-left,
+.header-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub-h-lt-1 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+.sub-h-lt-1 h1 {
+  background-image: linear-gradient(269deg, #0048ff, #0096ff),
+    linear-gradient(#000, #000);
+    color: #0084ff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.sub-h-lt-1 em {
+    font-weight: 500;
+}
+.sub-h-lt-2 {
+    font-weight: 500;
+    font-size: 15px;
+}
+.sub-h-lt-2 i {
+    margin-left: 5px;
+}
+.go-to-btn {
+  background-image: linear-gradient(269deg, #0048ff, #0096ff);
+  color: whitesmoke;
+  padding: 12px 25px;
+  border-radius: 25px;
+  font-weight: 600;
+  border: none;
+  outline: none;
+}
+.header-right div {
+  max-width: 300px;
+  margin-right: 20px;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 15px;
+  font-weight: 500;
+}
