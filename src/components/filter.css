@@ -15,17 +15,17 @@
     color: #0084ff;
 }
 .filter-btn {
-    padding: 10px 20px;
+    padding: 7px 14px;
     color: #0096ff;
     border-radius: 20px;
     border: 1px solid #0096ff;
     font-size: 0.8em;
     margin-right: 10px;
     margin-bottom: 10px;
-    background: whitesmoke;
+    background: white;
 }
 .filter-btn:hover {
     background-image: linear-gradient(269deg, #0048ff, #0096ff);
-    color: whitesmoke;
+    color: white;
     cursor: pointer;
 }
