@@ -1,0 +1,52 @@
+.footer {
+    background-color: #172146;
+    color: white;
+    padding: 80px 50px;
+    margin-top: 25px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+    div {
+        max-width: 250px;
+        h3 {
+            opacity: 0.5;
+            font-weight: 600;
+            font-size: 15px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 13px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+        .mail {
+            font-size: 13px;
+            margin: 10px auto;
+            color: white;
+            i {
+                margin: 10px 10px 10px 0px;
+            }
+        }
+        .social {
+            font-size: 16px !important;
+            a {
+                color: white;
+                i {
+                    margin: 20px 20px 20px 0px;
+                }
+            }
+        }
+        span{
+            font-size: 13px;
+            display: block;
+            cursor: pointer;
+            a {
+                color: white;
+                margin-left: 10px;
+            }
+        }
+    }
+}

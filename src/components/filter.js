@@ -4,7 +4,7 @@ const filterBtns = ['All', 'Artificial Intelligence', 'Cloud Computing','DevOps'
 
 const filterBtn = filterBtns.map((btn, i) => {
     return(
-        <button key={i} className='filter-btn'>
+        <button key={i} className={i === 0 ? "active" : "filter-btn"}>
             {btn}
         </button>
     )

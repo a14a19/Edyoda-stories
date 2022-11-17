@@ -29,3 +29,14 @@
     color: white;
     cursor: pointer;
 }
+.active {
+    background-image: linear-gradient(269deg, #0048ff, #0096ff);
+    color: white;
+    padding: 7px 14px;
+    border-radius: 20px;
+    border: 1px solid #0096ff;
+    font-size: 0.8em;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
