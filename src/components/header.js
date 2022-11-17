@@ -1,7 +1,7 @@
 import './header.css';
 
 function Header() {
-    const url = '/'
+    const url = 'https://a14a19.github.io/edyoda-stories/'
     return (
         <div className='header'>
             <div className='header-left'>
