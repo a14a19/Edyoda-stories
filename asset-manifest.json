@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edyoda-stories/static/css/main.b41f7fff.css",
+    "main.js": "/edyoda-stories/static/js/main.a9f56ec9.js",
+    "static/js/787.b67192c7.chunk.js": "/edyoda-stories/static/js/787.b67192c7.chunk.js",
+    "index.html": "/edyoda-stories/index.html",
+    "main.b41f7fff.css.map": "/edyoda-stories/static/css/main.b41f7fff.css.map",
+    "main.a9f56ec9.js.map": "/edyoda-stories/static/js/main.a9f56ec9.js.map",
+    "787.b67192c7.chunk.js.map": "/edyoda-stories/static/js/787.b67192c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41f7fff.css",
+    "static/js/main.a9f56ec9.js"
+  ]
+}
